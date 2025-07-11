@@ -1,0 +1,8 @@
+libopencv-dev
+libatlas-base-dev
+libavcodec-dev
+libavformat-dev
+libavutil-dev
+libswscale-dev
+libjpeg-dev
+libpng-dev
